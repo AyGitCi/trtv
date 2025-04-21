@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="1. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
@@ -39,7 +39,7 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 # saut de ligne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="2. |TR|🇹🇷 ULUSAL GENEL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://185.234.111.229:8000/play/a00c
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png",Kanal 7 Avrupa
@@ -71,7 +71,7 @@ http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 # saut de ligne
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png",group-title="3. |TR|🇹🇷 DİNÎ",DİYANET TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="3. |TR|🇹🇷 DİNÎ",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png",SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
@@ -157,7 +157,7 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84XLZJq/dw.png",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 # saut de ligne
-#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="8. |FR|🇫🇷 INFORMATION",Euronews Français
+#EXTINF:-1 tvg-id="" tvg-logo=""  group-title="9. |FR|🇫🇷 INFORMATION",Euronews Français
 https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
@@ -180,7 +180,7 @@ https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 # saut de ligne
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="9. |FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="10. |FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
